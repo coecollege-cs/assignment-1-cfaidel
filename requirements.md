@@ -1,4 +1,5 @@
-/*payroll system:
+#payroll system:
+
 which method of payment do you plan on using (check, direct deposit, other)?
 what benifits do employees have?
 what type of employees do you have (part, full, contract)?
@@ -10,4 +11,3 @@ what are you using for a database (data store)?
 what information is need to complete payroll?
 what currency are you using?
 
-*/
